@@ -1,0 +1,647 @@
+# ==========================================
+# ULTIMATE UNIVERSAL .gitattributes
+# EVERY EXTENSION = FULL DESCRIPTIVE NAME
+# EVERY EXTENSION CONTRIBUTES TO STATS
+# ==========================================
+
+# ==========================================
+# DOCUMENTS & PROSE
+# ==========================================
+*.doc linguist-detectable=true linguist-language="Microsoft Word Document"
+*.docx linguist-detectable=true linguist-language="Microsoft Word Open XML Document"
+*.log linguist-detectable=true linguist-language="Log File"
+*.msg linguist-detectable=true linguist-language="Outlook Mail Message"
+*.odt linguist-detectable=true linguist-language="OpenDocument Text Document"
+*.pages linguist-detectable=true linguist-language="Pages Document"
+*.rtf linguist-detectable=true linguist-language="Rich Text Format File"
+*.tex linguist-detectable=true linguist-language="LaTeX Source Document"
+*.txt linguist-detectable=true linguist-language="Plain Text File"
+*.wpd linguist-detectable=true linguist-language="WordPerfect Document"
+*.wps linguist-detectable=true linguist-language="Microsoft Works Word Processor Document"
+*.md linguist-detectable=true linguist-language="Markdown File"
+*.markdown linguist-detectable=true linguist-language="Markdown File"
+*.mdown linguist-detectable=true linguist-language="Markdown File"
+*.rst linguist-detectable=true linguist-language="reStructuredText File"
+*.adoc linguist-detectable=true linguist-language="AsciiDoc File"
+*.org linguist-detectable=true linguist-language="Org Mode File"
+*.abw linguist-detectable=true linguist-language="AbiWord Document"
+*.sdw linguist-detectable=true linguist-language="StarOffice Document"
+*.sxw linguist-detectable=true linguist-language="OpenOffice Document"
+*.ott linguist-detectable=true linguist-language="OpenDocument Template"
+*.oth linguist-detectable=true linguist-language="OpenDocument HTML Template"
+*.odg linguist-detectable=true linguist-language="OpenDocument Drawing"
+*.odp linguist-detectable=true linguist-language="OpenDocument Presentation"
+*.ods linguist-detectable=true linguist-language="OpenDocument Spreadsheet"
+*.odc linguist-detectable=true linguist-language="OpenDocument Chart"
+*.odi linguist-detectable=true linguist-language="OpenDocument Image"
+*.odm linguist-detectable=true linguist-language="OpenDocument Master"
+*.otg linguist-detectable=true linguist-language="OpenDocument Drawing Template"
+*.otp linguist-detectable=true linguist-language="OpenDocument Presentation Template"
+*.ots linguist-detectable=true linguist-language="OpenDocument Spreadsheet Template"
+*.pub linguist-detectable=true linguist-language="Microsoft Publisher Document"
+*.one linguist-detectable=true linguist-language="Microsoft OneNote Document"
+*.onepkg linguist-detectable=true linguist-language="Microsoft OneNote Package"
+*.onetoc linguist-detectable=true linguist-language="Microsoft OneNote Table of Contents"
+*.mpp linguist-detectable=true linguist-language="Microsoft Project File"
+*.mpt linguist-detectable=true linguist-language="Microsoft Project Template"
+*.nfo linguist-detectable=true linguist-language="Information File"
+*.readme linguist-detectable=true linguist-language="Readme File"
+*.wiki linguist-detectable=true linguist-language="Wiki Text File"
+
+# ==========================================
+# DATA & SPREADSHEETS
+# ==========================================
+*.csv linguist-detectable=true linguist-language="Comma Separated Values File"
+*.dat linguist-detectable=true linguist-language="Data File"
+*.ged linguist-detectable=true linguist-language="GEDCOM Genealogy Data File"
+*.key linguist-detectable=true linguist-language="Keynote Presentation"
+*.keychain linguist-detectable=true linguist-language="Mac OS X Keychain File"
+*.pps linguist-detectable=true linguist-language="PowerPoint Slide Show"
+*.ppt linguist-detectable=true linguist-language="PowerPoint Presentation"
+*.pptx linguist-detectable=true linguist-language="PowerPoint Open XML Presentation"
+*.sdf linguist-detectable=true linguist-language="Standard Data File"
+*.tar linguist-detectable=true linguist-language="Consolidated Unix File Archive"
+*.vcf linguist-detectable=true linguist-language="Virtual Contact File"
+*.xml linguist-detectable=true linguist-language="Extensible Markup Language File"
+*.xls linguist-detectable=true linguist-language="Microsoft Excel Spreadsheet"
+*.xlsx linguist-detectable=true linguist-language="Microsoft Excel Open XML Spreadsheet"
+*.xlsm linguist-detectable=true linguist-language="Microsoft Excel Macro-Enabled Spreadsheet"
+*.xlsb linguist-detectable=true linguist-language="Microsoft Excel Binary Spreadsheet"
+*.xlt linguist-detectable=true linguist-language="Microsoft Excel Template"
+*.xltx linguist-detectable=true linguist-language="Microsoft Excel Open XML Template"
+*.xltm linguist-detectable=true linguist-language="Microsoft Excel Macro-Enabled Template"
+*.xlr linguist-detectable=true linguist-language="Works Spreadsheet"
+*.tsv linguist-detectable=true linguist-language="Tab-Separated Values File"
+*.json linguist-detectable=true linguist-language="JavaScript Object Notation File"
+*.jsonl linguist-detectable=true linguist-language="JSON Lines File"
+*.yaml linguist-detectable=true linguist-language="YAML Ain't Markup Language File"
+*.yml linguist-detectable=true linguist-language="YAML Ain't Markup Language File"
+*.toml linguist-detectable=true linguist-language="Tom's Obvious Minimal Language File"
+*.properties linguist-detectable=true linguist-language="Java Properties File"
+*.lock linguist-detectable=true linguist-language="Lock File"
+*.hcl linguist-detectable=true linguist-language="HashiCorp Configuration Language File"
+*.tf linguist-detectable=true linguist-language="Terraform Configuration File"
+*.tfvars linguist-detectable=true linguist-language="Terraform Variables File"
+*.ini linguist-detectable=true linguist-language="Windows Initialization File"
+*.conf linguist-detectable=true linguist-language="Configuration File"
+*.config linguist-detectable=true linguist-language="Configuration File"
+*.cfg linguist-detectable=true linguist-language="Configuration File"
+*.env linguist-detectable=true linguist-language="Environment Variables File"
+
+# ==========================================
+# AUDIO FILES
+# ==========================================
+*.aac linguist-detectable=true linguist-language="Advanced Audio Coding File"
+*.ac3 linguist-detectable=true linguist-language="AC3 Audio File"
+*.aif linguist-detectable=true linguist-language="Audio Interchange File Format"
+*.aiff linguist-detectable=true linguist-language="Audio Interchange File Format"
+*.ape linguist-detectable=true linguist-language="Monkey's Audio File"
+*.au linguist-detectable=true linguist-language="AU Audio File"
+*.bwf linguist-detectable=true linguist-language="Broadcast Wave Format File"
+*.caf linguist-detectable=true linguist-language="Core Audio Format File"
+*.dts linguist-detectable=true linguist-language="DTS Audio File"
+*.flac linguist-detectable=true linguist-language="Free Lossless Audio Codec File"
+*.iff linguist-detectable=true linguist-language="Interchange File Format"
+*.it linguist-detectable=true linguist-language="Impulse Tracker Module"
+*.m3u linguist-detectable=true linguist-language="Media Playlist File"
+*.m4a linguist-detectable=true linguist-language="MPEG-4 Audio File"
+*.mid linguist-detectable=true linguist-language="MIDI File"
+*.midi linguist-detectable=true linguist-language="Musical Instrument Digital Interface File"
+*.mod linguist-detectable=true linguist-language="MOD Music File"
+*.mp3 linguist-detectable=true linguist-language="MPEG Audio Layer 3 File"
+*.mpa linguist-detectable=true linguist-language="MPEG-2 Audio File"
+*.mpc linguist-detectable=true linguist-language="Musepack Audio File"
+*.ogg linguist-detectable=true linguist-language="OGG Audio File"
+*.opus linguist-detectable=true linguist-language="Opus Audio File"
+*.pcm linguist-detectable=true linguist-language="Pulse-Code Modulation Audio File"
+*.s3m linguist-detectable=true linguist-language="Scream Tracker 3 Module"
+*.snd linguist-detectable=true linguist-language="SND Audio File"
+*.tak linguist-detectable=true linguist-language="TAK Lossless Audio File"
+*.tta linguist-detectable=true linguist-language="TTA Lossless Audio File"
+*.voc linguist-detectable=true linguist-language="Creative Voice File"
+*.wav linguist-detectable=true linguist-language="Waveform Audio File Format"
+*.wma linguist-detectable=true linguist-language="Windows Media Audio File"
+*.wv linguist-detectable=true linguist-language="WavPack Audio File"
+*.xm linguist-detectable=true linguist-language="Extended Module File"
+
+# ==========================================
+# VIDEO FILES
+# ==========================================
+*.3g2 linguist-detectable=true linguist-language="3GPP2 Multimedia File"
+*.3gp linguist-detectable=true linguist-language="3GPP Multimedia File"
+*.asf linguist-detectable=true linguist-language="Advanced Systems Format File"
+*.avi linguist-detectable=true linguist-language="Audio Video Interleave File"
+*.divx linguist-detectable=true linguist-language="DivX Video File"
+*.f4v linguist-detectable=true linguist-language="F4V Video File"
+*.flv linguist-detectable=true linguist-language="Flash Video File"
+*.ismv linguist-detectable=true linguist-language="Smooth Streaming Video File"
+*.m2ts linguist-detectable=true linguist-language="M2TS Video File"
+*.m4s linguist-detectable=true linguist-language="MPEG-DASH Segment File"
+*.m4v linguist-detectable=true linguist-language="iTunes Video File"
+*.mkv linguist-detectable=true linguist-language="Matroska Video File"
+*.mov linguist-detectable=true linguist-language="Apple QuickTime Movie File"
+*.mp4 linguist-detectable=true linguist-language="MPEG-4 Video File"
+*.mpd linguist-detectable=true linguist-language="MPEG-DASH Manifest File"
+*.mpeg linguist-detectable=true linguist-language="MPEG Video File"
+*.mpg linguist-detectable=true linguist-language="MPEG Video File"
+*.mts linguist-detectable=true linguist-language="MTS Video File"
+*.mxf linguist-detectable=true linguist-language="Material Exchange Format File"
+*.ogv linguist-detectable=true linguist-language="OGV Video File"
+*.rm linguist-detectable=true linguist-language="RealMedia File"
+*.rmvb linguist-detectable=true linguist-language="RealMedia Variable Bitrate File"
+*.srt linguist-detectable=true linguist-language="SubRip Subtitle File"
+*.swf linguist-detectable=true linguist-language="Shockwave Flash Movie"
+*.ts linguist-detectable=true linguist-language="MPEG Transport Stream File"
+*.vob linguist-detectable=true linguist-language="DVD Video Object File"
+*.webm linguist-detectable=true linguist-language="WebM Video File"
+*.wmv linguist-detectable=true linguist-language="Windows Media Video File"
+*.xvid linguist-detectable=true linguist-language="Xvid Video File"
+*.yuv linguist-detectable=true linguist-language="YUV Video File"
+
+# ==========================================
+# 3D IMAGE FILES
+# ==========================================
+*.3dm linguist-detectable=true linguist-language="Rhino 3D Model"
+*.3ds linguist-detectable=true linguist-language="3D Studio Scene File"
+*.blend linguist-detectable=true linguist-language="Blender 3D File"
+*.c4d linguist-detectable=true linguist-language="Cinema 4D File"
+*.dae linguist-detectable=true linguist-language="Collada 3D File"
+*.fbx linguist-detectable=true linguist-language="Autodesk FBX 3D File"
+*.glb linguist-detectable=true linguist-language="GL Transmission Format Binary File"
+*.gltf linguist-detectable=true linguist-language="GL Transmission Format File"
+*.iges linguist-detectable=true linguist-language="Initial Graphics Exchange Specification File"
+*.igs linguist-detectable=true linguist-language="Initial Graphics Exchange Specification File"
+*.lwo linguist-detectable=true linguist-language="LightWave Object File"
+*.lws linguist-detectable=true linguist-language="LightWave Scene File"
+*.ma linguist-detectable=true linguist-language="Maya ASCII File"
+*.max linguist-detectable=true linguist-language="3ds Max Scene File"
+*.mb linguist-detectable=true linguist-language="Maya Binary File"
+*.obj linguist-detectable=true linguist-language="Wavefront 3D Object File"
+*.ply linguist-detectable=true linguist-language="Polygon File Format"
+*.pcd linguist-detectable=true linguist-language="Point Cloud Data File"
+*.skp linguist-detectable=true linguist-language="SketchUp Model File"
+*.step linguist-detectable=true linguist-language="STEP 3D Model File"
+*.stl linguist-detectable=true linguist-language="STL 3D Model File"
+*.stp linguist-detectable=true linguist-language="STEP 3D Model File"
+*.vrml linguist-detectable=true linguist-language="Virtual Reality Modeling Language File"
+*.wrl linguist-detectable=true linguist-language="VRML File"
+*.x3d linguist-detectable=true linguist-language="X3D File"
+*.x3db linguist-detectable=true linguist-language="X3D Binary File"
+*.x3dv linguist-detectable=true linguist-language="X3D File"
+*.ztl linguist-detectable=true linguist-language="ZBrush File"
+
+# ==========================================
+# RASTER IMAGE FILES
+# ==========================================
+*.bmp linguist-detectable=true linguist-language="Bitmap Image File"
+*.dds linguist-detectable=true linguist-language="DirectDraw Surface File"
+*.exr linguist-detectable=true linguist-language="OpenEXR Image File"
+*.gif linguist-detectable=true linguist-language="Graphics Interchange Format File"
+*.hdr linguist-detectable=true linguist-language="High Dynamic Range Image File"
+*.heic linguist-detectable=true linguist-language="High Efficiency Image Container File"
+*.heif linguist-detectable=true linguist-language="High Efficiency Image Format File"
+*.ico linguist-detectable=true linguist-language="Icon File"
+*.jfif linguist-detectable=true linguist-language="JPEG File Interchange Format File"
+*.jp2 linguist-detectable=true linguist-language="JPEG 2000 Image File"
+*.jpeg linguist-detectable=true linguist-language="Joint Photographic Experts Group Image File"
+*.jpg linguist-detectable=true linguist-language="Joint Photographic Experts Group Image File"
+*.jpx linguist-detectable=true linguist-language="JPEG 2000 Image File"
+*.pbm linguist-detectable=true linguist-language="Portable Bitmap File"
+*.pcx linguist-detectable=true linguist-language="PCX Image File"
+*.pgm linguist-detectable=true linguist-language="Portable Graymap File"
+*.png linguist-detectable=true linguist-language="Portable Network Graphics File"
+*.pnm linguist-detectable=true linguist-language="Portable Anymap File"
+*.ppm linguist-detectable=true linguist-language="Portable Pixmap File"
+*.psd linguist-detectable=true linguist-language="Adobe Photoshop Document"
+*.psimage linguist-detectable=true linguist-language="PaintShop Pro Image File"
+*.raw linguist-detectable=true linguist-language="Raw Image File"
+*.tga linguist-detectable=true linguist-language="Targa Graphic File"
+*.thm linguist-detectable=true linguist-language="Thumbnail Image File"
+*.tif linguist-detectable=true linguist-language="Tagged Image File"
+*.tiff linguist-detectable=true linguist-language="Tagged Image File Format"
+*.webp linguist-detectable=true linguist-language="WebP Image File"
+*.xcf linguist-detectable=true linguist-language="GIMP Image File"
+*.xpm linguist-detectable=true linguist-language="X PixMap File"
+*.xwd linguist-detectable=true linguist-language="X Window Dump File"
+*.avif linguist-detectable=true linguist-language="AVIF Image File"
+*.flif linguist-detectable=true linguist-language="FLIF Image File"
+*.ora linguist-detectable=true linguist-language="OpenRaster File"
+*.kra linguist-detectable=true linguist-language="Krita Document File"
+*.afphoto linguist-detectable=true linguist-language="Affinity Photo File"
+*.afdesign linguist-detectable=true linguist-language="Affinity Designer File"
+*.afpub linguist-detectable=true linguist-language="Affinity Publisher File"
+*.sketch linguist-detectable=true linguist-language="Sketch Design File"
+
+# ==========================================
+# VECTOR IMAGE FILES
+# ==========================================
+*.ai linguist-detectable=true linguist-language="Adobe Illustrator File"
+*.eps linguist-detectable=true linguist-language="Encapsulated PostScript File"
+*.svg linguist-detectable=true linguist-language="Scalable Vector Graphics File"
+*.svgz linguist-detectable=true linguist-language="Compressed Scalable Vector Graphics File"
+*.cdr linguist-detectable=true linguist-language="CorelDRAW File"
+
+# ==========================================
+# PAGE LAYOUT FILES
+# ==========================================
+*.indd linguist-detectable=true linguist-language="Adobe InDesign Document"
+*.pct linguist-detectable=true linguist-language="Picture File"
+*.pdf linguist-detectable=true linguist-language="Portable Document Format File"
+
+# ==========================================
+# DATABASE FILES
+# ==========================================
+*.accdb linguist-detectable=true linguist-language="Microsoft Access 2007 Database File"
+*.db linguist-detectable=true linguist-language="Database File"
+*.dbf linguist-detectable=true linguist-language="Database File"
+*.mdb linguist-detectable=true linguist-language="Microsoft Access Database"
+*.pdb linguist-detectable=true linguist-language="Program Database File"
+*.sql linguist-detectable=true linguist-language="Structured Query Language Data File"
+*.sqlite linguist-detectable=true linguist-language="SQLite Database File"
+*.sqlite3 linguist-detectable=true linguist-language="SQLite Database File"
+
+# ==========================================
+# EXECUTABLE FILES
+# ==========================================
+*.apk linguist-detectable=true linguist-language="Android Package File"
+*.app linguist-detectable=true linguist-language="macOS Application"
+*.bat linguist-detectable=true linguist-language="DOS Batch File"
+*.cgi linguist-detectable=true linguist-language="Common Gateway Interface Script"
+*.com linguist-detectable=true linguist-language="DOS Command File"
+*.exe linguist-detectable=true linguist-language="Windows Executable File"
+*.gadget linguist-detectable=true linguist-language="Windows Gadget"
+*.jar linguist-detectable=true linguist-language="Java Archive File"
+*.wsf linguist-detectable=true linguist-language="Windows Script File"
+*.elf linguist-detectable=true linguist-language="Executable and Linkable Format File"
+*.out linguist-detectable=true linguist-language="Executable File"
+*.so linguist-detectable=true linguist-language="Shared Object File"
+*.dylib linguist-detectable=true linguist-language="Dynamic Library File"
+*.dll linguist-detectable=true linguist-language="Dynamic Link Library File"
+
+# ==========================================
+# GAME FILES
+# ==========================================
+*.b linguist-detectable=true linguist-language="Grand Theft Auto 3 Saved Game File"
+*.dem linguist-detectable=true linguist-language="Video Game Demo File"
+*.gam linguist-detectable=true linguist-language="Saved Game File"
+*.nes linguist-detectable=true linguist-language="Nintendo Entertainment System ROM File"
+*.rom linguist-detectable=true linguist-language="N64 Game ROM File"
+*.sav linguist-detectable=true linguist-language="Saved Game File"
+*.unity linguist-detectable=true linguist-language="Unity Scene File"
+*.unitypackage linguist-detectable=true linguist-language="Unity Package File"
+*.asset linguist-detectable=true linguist-language="Unity Asset File"
+*.prefab linguist-detectable=true linguist-language="Unity Prefab File"
+*.meta linguist-detectable=true linguist-language="Unity Metadata File"
+*.anim linguist-detectable=true linguist-language="Unity Animation File"
+*.controller linguist-detectable=true linguist-language="Unity Animator Controller File"
+*.mat linguist-detectable=true linguist-language="Unity Material File"
+*.shader linguist-detectable=true linguist-language="Shader File"
+*.hlsl linguist-detectable=true linguist-language="High-Level Shading Language File"
+*.glsl linguist-detectable=true linguist-language="OpenGL Shading Language File"
+*.cginc linguist-detectable=true linguist-language="Unity CG Include File"
+*.uproject linguist-detectable=true linguist-language="Unreal Engine Project File"
+*.uasset linguist-detectable=true linguist-language="Unreal Engine Asset File"
+*.umap linguist-detectable=true linguist-language="Unreal Engine Map File"
+*.godot linguist-detectable=true linguist-language="Godot Engine Project File"
+*.tscn linguist-detectable=true linguist-language="Godot Engine Scene File"
+
+# ==========================================
+# CAD FILES
+# ==========================================
+*.dwg linguist-detectable=true linguist-language="AutoCAD Drawing Database File"
+*.dxf linguist-detectable=true linguist-language="Drawing Exchange Format File"
+*.dwf linguist-detectable=true linguist-language="Design Web Format File"
+*.dgn linguist-detectable=true linguist-language="MicroStation Design File"
+
+# ==========================================
+# GIS & MAPPING FILES
+# ==========================================
+*.gpx linguist-detectable=true linguist-language="GPS Exchange File"
+*.kml linguist-detectable=true linguist-language="Keyhole Markup Language File"
+*.kmz linguist-detectable=true linguist-language="Compressed Keyhole Markup Language File"
+*.geojson linguist-detectable=true linguist-language="GeoJSON File"
+*.topojson linguist-detectable=true linguist-language="TopoJSON File"
+*.shp linguist-detectable=true linguist-language="Shapefile"
+*.shx linguist-detectable=true linguist-language="Shapefile Index File"
+*.prj linguist-detectable=true linguist-language="Projection File"
+*.gdb linguist-detectable=true linguist-language="Geodatabase File"
+*.mif linguist-detectable=true linguist-language="MapInfo Interchange Format File"
+*.mid linguist-detectable=true linguist-language="MapInfo Data File"
+*.tab linguist-detectable=true linguist-language="MapInfo Table File"
+
+# ==========================================
+# WEB FILES
+# ==========================================
+*.asp linguist-detectable=true linguist-language="Active Server Page"
+*.aspx linguist-detectable=true linguist-language="Active Server Page Extended File"
+*.cer linguist-detectable=true linguist-language="Internet Security Certificate"
+*.cfm linguist-detectable=true linguist-language="ColdFusion Markup File"
+*.cfc linguist-detectable=true linguist-language="ColdFusion Component"
+*.csr linguist-detectable=true linguist-language="Certificate Signing Request File"
+*.css linguist-detectable=true linguist-language="Cascading Style Sheet"
+*.dcr linguist-detectable=true linguist-language="Shockwave Media File"
+*.htm linguist-detectable=true linguist-language="Hypertext Markup Language File"
+*.html linguist-detectable=true linguist-language="Hypertext Markup Language File"
+*.js linguist-detectable=true linguist-language="JavaScript File"
+*.jsp linguist-detectable=true linguist-language="Java Server Page"
+*.jspx linguist-detectable=true linguist-language="Java Server Pages File"
+*.php linguist-detectable=true linguist-language="PHP Hypertext Preprocessor File"
+*.rss linguist-detectable=true linguist-language="Rich Site Summary File"
+*.xhtml linguist-detectable=true linguist-language="Extensible Hypertext Markup Language File"
+*.shtml linguist-detectable=true linguist-language="Server Side Includes File"
+*.jsx linguist-detectable=true linguist-language="JavaScript XML File"
+*.ts linguist-detectable=true linguist-language="TypeScript File"
+*.tsx linguist-detectable=true linguist-language="TypeScript XML File"
+*.vue linguist-detectable=true linguist-language="Vue.js Component File"
+*.svelte linguist-detectable=true linguist-language="Svelte Component File"
+*.graphql linguist-detectable=true linguist-language="GraphQL Schema File"
+*.gql linguist-detectable=true linguist-language="GraphQL File"
+*.proto linguist-detectable=true linguist-language="Protocol Buffers File"
+*.thrift linguist-detectable=true linguist-language="Thrift Interface File"
+*.avsc linguist-detectable=true linguist-language="Avro Schema File"
+*.avdl linguist-detectable=true linguist-language="Avro IDL File"
+
+# ==========================================
+# PLUGIN FILES
+# ==========================================
+*.crx linguist-detectable=true linguist-language="Chrome Extension File"
+*.plugin linguist-detectable=true linguist-language="Mac OS X Plugin File"
+
+# ==========================================
+# FONT FILES
+# ==========================================
+*.fnt linguist-detectable=true linguist-language="Windows Font File"
+*.fon linguist-detectable=true linguist-language="Generic Font File"
+*.otf linguist-detectable=true linguist-language="OpenType Font File"
+*.ttf linguist-detectable=true linguist-language="TrueType Font File"
+*.woff linguist-detectable=true linguist-language="Web Open Font Format File"
+*.woff2 linguist-detectable=true linguist-language="Web Open Font Format 2 File"
+*.eot linguist-detectable=true linguist-language="Embedded OpenType Font File"
+*.pfa linguist-detectable=true linguist-language="PostScript Font File"
+*.pfb linguist-detectable=true linguist-language="PostScript Font File"
+*.sfd linguist-detectable=true linguist-language="FontForge Font File"
+
+# ==========================================
+# SYSTEM FILES
+# ==========================================
+*.cab linguist-detectable=true linguist-language="Windows Cabinet File"
+*.cpl linguist-detectable=true linguist-language="Windows Control Panel Item"
+*.cur linguist-detectable=true linguist-language="Windows Cursor File"
+*.deskthemepack linguist-detectable=true linguist-language="Windows Desktop Theme Pack File"
+*.dmp linguist-detectable=true linguist-language="Windows Memory Dump File"
+*.drv linguist-detectable=true linguist-language="Device Driver File"
+*.icns linguist-detectable=true linguist-language="macOS Icon Resource File"
+*.lnk linguist-detectable=true linguist-language="Windows File Shortcut"
+*.sys linguist-detectable=true linguist-language="Windows System File"
+
+# ==========================================
+# SETTING FILES
+# ==========================================
+*.prf linguist-detectable=true linguist-language="Outlook Profile File"
+
+# ==========================================
+# ENCODED FILES
+# ==========================================
+*.hqx linguist-detectable=true linguist-language="BinHex 4.0 Encoded File"
+*.mim linguist-detectable=true linguist-language="Multi-Purpose Internet Mail Message File"
+*.uue linguist-detectable=true linguist-language="Uuencoded File"
+
+# ==========================================
+# COMPRESSED FILES
+# ==========================================
+*.7z linguist-detectable=true linguist-language="7-Zip Compressed File"
+*.cbr linguist-detectable=true linguist-language="Comic Book RAR Archive"
+*.deb linguist-detectable=true linguist-language="Debian Software Package"
+*.gz linguist-detectable=true linguist-language="GNU Zipped Archive"
+*.pkg linguist-detectable=true linguist-language="Mac OS X Installer Package"
+*.rar linguist-detectable=true linguist-language="WinRAR Compressed Archive"
+*.rpm linguist-detectable=true linguist-language="Red Hat Package Manager File"
+*.sitx linguist-detectable=true linguist-language="StuffIt X Archive"
+*.tar linguist-detectable=true linguist-language="Compressed Tarball File"
+*.zip linguist-detectable=true linguist-language="Zipped File"
+*.zipx linguist-detectable=true linguist-language="Extended Zip File"
+*.bz2 linguist-detectable=true linguist-language="BZIP2 Archive File"
+*.xz linguist-detectable=true linguist-language="XZ Archive File"
+*.tgz linguist-detectable=true linguist-language="Compressed TAR Archive"
+*.tbz linguist-detectable=true linguist-language="BZIP2 TAR Archive"
+*.tbz2 linguist-detectable=true linguist-language="BZIP2 TAR Archive"
+*.txz linguist-detectable=true linguist-language="XZ TAR Archive"
+*.lz linguist-detectable=true linguist-language="LZ Archive"
+*.lzma linguist-detectable=true linguist-language="LZMA Archive"
+*.zst linguist-detectable=true linguist-language="Zstandard Archive"
+*.br linguist-detectable=true linguist-language="Brotli Archive"
+*.z linguist-detectable=true linguist-language="Z Archive"
+
+# ==========================================
+# DISK IMAGE FILES
+# ==========================================
+*.bin linguist-detectable=true linguist-language="Binary Disc Image"
+*.cue linguist-detectable=true linguist-language="Cue Sheet File"
+*.dmg linguist-detectable=true linguist-language="Mac OS X Disk Image"
+*.iso linguist-detectable=true linguist-language="ISO Disk Image"
+*.mdf linguist-detectable=true linguist-language="Media Disc Image File"
+*.toast linguist-detectable=true linguist-language="Toast Disc Image"
+*.vcd linguist-detectable=true linguist-language="Virtual CD File"
+*.img linguist-detectable=true linguist-language="Disk Image File"
+*.vhd linguist-detectable=true linguist-language="Virtual Hard Disk"
+*.vhdx linguist-detectable=true linguist-language="Virtual Hard Disk"
+*.vmdk linguist-detectable=true linguist-language="Virtual Machine Disk"
+*.vdi linguist-detectable=true linguist-language="VirtualBox Disk Image"
+*.ova linguist-detectable=true linguist-language="Open Virtualization Archive"
+*.ovf linguist-detectable=true linguist-language="Open Virtualization Format"
+*.qcow2 linguist-detectable=true linguist-language="QEMU Copy-On-Write Disk Image"
+
+# ==========================================
+# MACHINE LEARNING FILES
+# ==========================================
+*.h5 linguist-detectable=true linguist-language="HDF5 Model File"
+*.keras linguist-detectable=true linguist-language="Keras Model File"
+*.pb linguist-detectable=true linguist-language="Protocol Buffer Model File"
+*.tflite linguist-detectable=true linguist-language="TensorFlow Lite Model File"
+*.pkl linguist-detectable=true linguist-language="Pickle Model File"
+*.joblib linguist-detectable=true linguist-language="Joblib Model File"
+*.onnx linguist-detectable=true linguist-language="Open Neural Network Exchange Model"
+*.mlmodel linguist-detectable=true linguist-language="Core ML Model File"
+*.caffemodel linguist-detectable=true linguist-language="Caffe Model File"
+*.weights linguist-detectable=true linguist-language="Model Weights File"
+
+# ==========================================
+# E-BOOK & PUBLISHING FILES
+# ==========================================
+*.epub linguist-detectable=true linguist-language="EPUB eBook File"
+*.mobi linguist-detectable=true linguist-language="Mobipocket eBook File"
+*.azw linguist-detectable=true linguist-language="Amazon Kindle eBook File"
+*.azw3 linguist-detectable=true linguist-language="Amazon Kindle eBook File"
+*.kfx linguist-detectable=true linguist-language="Kindle Format X File"
+*.lit linguist-detectable=true linguist-language="Microsoft Reader File"
+*.fb2 linguist-detectable=true linguist-language="FictionBook File"
+*.cbt linguist-detectable=true linguist-language="Comic Book Archive"
+*.cb7 linguist-detectable=true linguist-language="Comic Book Archive"
+
+# ==========================================
+# CERTIFICATE & ENCRYPTION FILES
+# ==========================================
+*.pem linguist-detectable=true linguist-language="Privacy-Enhanced Mail Certificate"
+*.crt linguist-detectable=true linguist-language="Certificate File"
+*.cer linguist-detectable=true linguist-language="Certificate File"
+*.der linguist-detectable=true linguist-language="Distinguished Encoding Rules Certificate"
+*.csr linguist-detectable=true linguist-language="Certificate Signing Request File"
+*.p12 linguist-detectable=true linguist-language="PKCS12 Certificate File"
+*.pfx linguist-detectable=true linguist-language="PKCS12 Certificate File"
+*.jks linguist-detectable=true linguist-language="Java KeyStore File"
+*.keystore linguist-detectable=true linguist-language="KeyStore File"
+*.gpg linguist-detectable=true linguist-language="GNU Privacy Guard Key File"
+*.key linguist-detectable=true linguist-language="Private Key File"
+*.sig linguist-detectable=true linguist-language="Signature File"
+*.asc linguist-detectable=true linguist-language="ASCII Armored Signature File"
+
+# ==========================================
+# PROGRAMMING SOURCE CODE
+# ==========================================
+*.c linguist-detectable=true linguist-language="C Source Code File"
+*.cpp linguist-detectable=true linguist-language="C Plus Plus Source Code File"
+*.cs linguist-detectable=true linguist-language="C Sharp Source Code File"
+*.java linguist-detectable=true linguist-language="Java Source Code File"
+*.py linguist-detectable=true linguist-language="Python Script File"
+*.rb linguist-detectable=true linguist-language="Ruby Script File"
+*.go linguist-detectable=true linguist-language="Go Source Code File"
+*.rs linguist-detectable=true linguist-language="Rust Source Code File"
+*.swift linguist-detectable=true linguist-language="Swift Source Code File"
+*.kt linguist-detectable=true linguist-language="Kotlin Source Code File"
+*.dart linguist-detectable=true linguist-language="Dart Source Code File"
+*.lua linguist-detectable=true linguist-language="Lua Script File"
+*.pl linguist-detectable=true linguist-language="Perl Script File"
+*.sh linguist-detectable=true linguist-language="Bash Shell Script File"
+*.bash linguist-detectable=true linguist-language="Bash Shell Script File"
+*.zsh linguist-detectable=true linguist-language="Z Shell Script File"
+*.fish linguist-detectable=true linguist-language="Fish Shell Script File"
+*.ps1 linguist-detectable=true linguist-language="PowerShell Script File"
+*.psm1 linguist-detectable=true linguist-language="PowerShell Module File"
+*.psd1 linguist-detectable=true linguist-language="PowerShell Data File"
+*.vbs linguist-detectable=true linguist-language="VBScript File"
+*.tcl linguist-detectable=true linguist-language="Tcl Script File"
+*.awk linguist-detectable=true linguist-language="AWK Script File"
+*.sed linguist-detectable=true linguist-language="Sed Script File"
+*.el linguist-detectable=true linguist-language="Emacs Lisp File"
+*.lisp linguist-detectable=true linguist-language="Lisp File"
+*.cl linguist-detectable=true linguist-language="Common Lisp File"
+*.rkt linguist-detectable=true linguist-language="Racket Source Code File"
+*.hs linguist-detectable=true linguist-language="Haskell Source Code File"
+*.erl linguist-detectable=true linguist-language="Erlang Source Code File"
+*.ex linguist-detectable=true linguist-language="Elixir Source Code File"
+*.exs linguist-detectable=true linguist-language="Elixir Script File"
+*.fs linguist-detectable=true linguist-language="F Sharp Source Code File"
+*.fsi linguist-detectable=true linguist-language="F Sharp Interface File"
+*.fsx linguist-detectable=true linguist-language="F Sharp Script File"
+*.zig linguist-detectable=true linguist-language="Zig Source Code File"
+*.cr linguist-detectable=true linguist-language="Crystal Source Code File"
+*.nim linguist-detectable=true linguist-language="Nim Source Code File"
+*.lean linguist-detectable=true linguist-language="Lean Theorem Prover File"
+*.wat linguist-detectable=true linguist-language="WebAssembly Text Format File"
+*.wasm linguist-detectable=true linguist-language="WebAssembly Binary File"
+*.m linguist-detectable=true linguist-language="Objective-C Source Code File"
+*.mm linguist-detectable=true linguist-language="Objective-C Plus Plus Source Code File"
+*.pas linguist-detectable=true linguist-language="Pascal Source Code File"
+*.r linguist-detectable=true linguist-language="R Source Code File"
+*.jl linguist-detectable=true linguist-language="Julia Source Code File"
+*.scala linguist-detectable=true linguist-language="Scala Source Code File"
+*.groovy linguist-detectable=true linguist-language="Groovy Source Code File"
+*.clj linguist-detectable=true linguist-language="Clojure Source Code File"
+*.cljc linguist-detectable=true linguist-language="Clojure Source Code File"
+*.cljs linguist-detectable=true linguist-language="ClojureScript Source Code File"
+*.h linguist-detectable=true linguist-language="C Header File"
+*.hpp linguist-detectable=true linguist-language="C Plus Plus Header File"
+*.class linguist-detectable=true linguist-language="Java Bytecode File"
+*.vb linguist-detectable=true linguist-language="Visual Basic Source Code File"
+
+# ==========================================
+# BACKUP & TEMPORARY FILES
+# ==========================================
+*.bak linguist-detectable=true linguist-language="Backup File"
+*.tmp linguist-detectable=true linguist-language="Temporary File"
+*.temp linguist-detectable=true linguist-language="Temporary File"
+*.old linguist-detectable=true linguist-language="Old File"
+*.orig linguist-detectable=true linguist-language="Original File"
+*.swp linguist-detectable=true linguist-language="Swap File"
+*.swo linguist-detectable=true linguist-language="Swap File"
+
+# ==========================================
+# MISC FILES
+# ==========================================
+*.crdownload linguist-detectable=true linguist-language="Chrome Partially Downloaded File"
+*.ics linguist-detectable=true linguist-language="Calendar File"
+*.msi linguist-detectable=true linguist-language="Windows Installer Package"
+*.part linguist-detectable=true linguist-language="Partially Downloaded File"
+*.torrent linguist-detectable=true linguist-language="BitTorrent File"
+*.sub linguist-detectable=true linguist-language="Subtitle File"
+*.me linguist-detectable=true linguist-language="Readme Text File"
+*.fdr linguist-detectable=true linguist-language="Final Draft Document"
+*.xd linguist-detectable=true linguist-language="Adobe XD Document"
+*.as linguist-detectable=true linguist-language="ActionScript File"
+*.swc linguist-detectable=true linguist-language="Flex Component File"
+
+# ==========================================
+# FILES WITHOUT EXTENSIONS
+# ==========================================
+Dockerfile linguist-detectable=true linguist-language="Dockerfile"
+Makefile linguist-detectable=true linguist-language="Makefile"
+CMakeLists.txt linguist-detectable=true linguist-language="CMake File"
+Rakefile linguist-detectable=true linguist-language="Rakefile"
+Gemfile linguist-detectable=true linguist-language="Gemfile"
+Podfile linguist-detectable=true linguist-language="CocoaPods File"
+Cartfile linguist-detectable=true linguist-language="Carthage File"
+Vagrantfile linguist-detectable=true linguist-language="Vagrant Configuration File"
+Procfile linguist-detectable=true linguist-language="Process File"
+Snakefile linguist-detectable=true linguist-language="Snakemake File"
+SConstruct linguist-detectable=true linguist-language="SCons Construction File"
+SConscript linguist-detectable=true linguist-language="SCons Script File"
+configure linguist-detectable=true linguist-language="Configure Script"
+
+# ==========================================
+# HIDDEN FILES
+# ==========================================
+.* linguist-detectable=true linguist-language="Hidden File"
+.* -linguist-documentation
+*.eslintrc linguist-detectable=true linguist-language="ESLint Configuration"
+*.prettierrc linguist-detectable=true linguist-language="Prettier Configuration"
+*.babelrc linguist-detectable=true linguist-language="Babel Configuration"
+
+# ==========================================
+# DIRECTORY PATTERNS (ALL DETECTABLE)
+# ==========================================
+node_modules/ linguist-detectable=true linguist-language="Node Modules"
+vendor/ linguist-detectable=true linguist-language="Vendor Files"
+third_party/ linguist-detectable=true linguist-language="Third Party Files"
+packages/ linguist-detectable=true linguist-language="Package Files"
+external/ linguist-detectable=true linguist-language="External Files"
+deps/ linguist-detectable=true linguist-language="Dependency Files"
+lib/ linguist-detectable=true linguist-language="Library Files"
+bower_components/ linguist-detectable=true linguist-language="Bower Components"
+jspm_packages/ linguist-detectable=true linguist-language="JSPM Packages"
+min/ linguist-detectable=true linguist-language="Minified Files"
+minified/ linguist-detectable=true linguist-language="Minified Files"
+dist/ linguist-detectable=true linguist-language="Distribution Files"
+build/ linguist-detectable=true linguist-language="Build Files"
+out/ linguist-detectable=true linguist-language="Output Files"
+target/ linguist-detectable=true linguist-language="Target Files"
+bin/ linguist-detectable=true linguist-language="Binary Files"
+obj/ linguist-detectable=true linguist-language="Object Files"
+__pycache__/ linguist-detectable=true linguist-language="Python Cache Files"
+
+# ==========================================
+# GENERATED FILES (STILL DETECTABLE)
+# ==========================================
+package-lock.json linguist-detectable=true linguist-language="Package Lock File"
+yarn.lock linguist-detectable=true linguist-language="Yarn Lock File"
+pnpm-lock.yaml linguist-detectable=true linguist-language="PNPM Lock File"
+composer.lock linguist-detectable=true linguist-language="Composer Lock File"
+Gemfile.lock linguist-detectable=true linguist-language="Gemfile Lock File"
+Cargo.lock linguist-detectable=true linguist-language="Cargo Lock File"
+poetry.lock linguist-detectable=true linguist-language="Poetry Lock File"
+*.min.js linguist-detectable=true linguist-language="Minified JavaScript File"
+*.min.css linguist-detectable=true linguist-language="Minified CSS File"
+*.min.js.map linguist-detectable=true linguist-language="Minified JavaScript Source Map"
+*.min.css.map linguist-detectable=true linguist-language="Minified CSS Source Map"
+*.pyc linguist-detectable=true linguist-language="Python Compiled File"
+*.class linguist-detectable=true linguist-language="Java Class File"
+*.o linguist-detectable=true linguist-language="Object File"
